@@ -1,7 +1,8 @@
 # Azeez Ridwan
-### Hello World! 👋
+### Hello World! 
 
 
+I am Azeez Ridwan, currently I'm a Software Engineer in Nigeria. I enjoy solving problems and creating solutions with technologies.
 
 <!--
 **Azo-hub/Azo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
