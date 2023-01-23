@@ -1,8 +1,8 @@
-# Azeez Ridwan
-### Hello World! 
+# **Azeez Ridwan :man:**
+### Hello World! :earth_africa:
 
 
-I am Azeez Ridwan, currently I'm a Software Engineer in Nigeria. I enjoy solving problems and creating solutions with technologies.
+I am Azeez Ridwan, currently I'm a Software Engineer :man_technologist: in Nigeria :nigeria:. I enjoy solving problems and creating solutions with technologies.
 
 I have an extensive knowledge of Java, SpringMVC, SQL, Angular, HTML, Thymeleaf, CSS, bootstrap, Javascript, Jquery and JavaFx.
 
