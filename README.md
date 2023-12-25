@@ -4,7 +4,7 @@
 
 I am Azeez Ridwan, currently I'm a Software Engineer :man_technologist: in Nigeria :nigeria:. I enjoy solving problems and creating solutions with technologies :computer:.
 
-I have an extensive knowledge of Java, Spring Boot, Spring Data JPA, Spring Security, Mysql, MongoDB, PostgreSQL, Angular, Typescript, Docker, Kubernetes, Thymeleaf, bootstrap, Angular Material, Javascript and Jquery.  👯 I’m looking to a collaboration and as well open to jobs ...
+I have an extensive knowledge of Java, Spring Boot, Spring Data JPA, Spring Security, Mysql, MongoDB, PostgreSQL, Angular, Typescript, Angular Material, Redis, Docker, Kubernetes, Thymeleaf, bootstrap, Javascript and Jquery.  👯 I’m looking to a collaboration and as well open to jobs ...
 
 <!--
 **Azo-hub/Azo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
