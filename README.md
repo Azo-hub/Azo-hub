@@ -2,9 +2,9 @@
 ### Hello World! :earth_africa:
 
 
-I am Azeez Ridwan, currently I'm a Software Engineer :man_technologist: in Nigeria :nigeria:. I enjoy solving problems and creating solutions with technologies :computer:.
+I am Azeez Ridwan, I'm a Software Engineer :man_technologist: in Nigeria :nigeria:. I enjoy solving problems and creating solutions with technologies :computer:.
 
-I have an extensive knowledge of Java, Spring Boot, Spring Data JPA, Spring Security, Mysql, MongoDB, PostgreSQL, Angular, Typescript, Angular Material, Redis, Docker, Kubernetes, Thymeleaf, bootstrap, Javascript and Jquery.  👯 I’m looking to a collaboration and as well open to jobs ...
+I am a Software Engineer with years of experience developing scalable systems, cloud deployment and integrations. Skilled in the utilization of various technologies such as Java, SpringBoot, Spring Cloud, Angular, Typescript, Redis, Docker, Kubernetes, Relational and NoSql databases. Experienced in working in a team 👯 using agile development methodologies.
 
 <!--
 **Azo-hub/Azo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
